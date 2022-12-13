@@ -55,7 +55,7 @@
 }
 .scrollyteller .step {
 	margin: 100vh auto;
-	max-width: 400px;
+	max-width: 350px;
 	text-align: center;
 }
 .scrollyteller .step:first-of-type {
